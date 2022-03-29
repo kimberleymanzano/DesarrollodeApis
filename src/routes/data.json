@@ -1,0 +1,26 @@
+[
+    {
+        "id":"1",
+        "title":"Cactus",
+        "Humedadminima":"1",
+        "mineralesminimo":"1",
+        "HumedadActual":"2",
+        "MineralesActual":"0.5",
+        "UltimosRiegos":"Marzo 13 4:00, Marzo 13 15:00, Marzo 14 4:00",
+        "Vecesregada":"4",
+        "fechas": "12 de marzo y 15 de marzo",
+        "riego": "03/12 4:00PM, 03/13 7:00PM,  03/14 4:00PM, 03,15 7:00PM"
+    },
+    {
+        "id":"2",
+        "title":"Rosa",
+        "Humedadminima":"5",
+        "mineralesminimo":"5",
+        "HumedadActual":"2",
+        "MineralesActual":"8",
+        "UltimosRiegos":"Marzo 13 17:00, Marzo 14 5:00, Marzo 14 17:00",
+        "Vecesregada":"3",
+        "fechas": "10 de marzo y 28 de marzo",
+        "riego": "03/10 10:00PM, 03/19 9:00PM,  03/28 3:00PM"
+    }
+]
